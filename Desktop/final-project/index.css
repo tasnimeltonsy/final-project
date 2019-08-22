@@ -1,0 +1,24 @@
+.col1{
+	background-color: #BD5D38;
+	height: 1030px;
+}
+.bg0{
+	margin-left:5%;
+	margin-top: 20%;
+	text-align: center;
+}
+.bg1{
+	color: white;
+	padding-top: 10%;
+}
+.img0{
+	border-radius: 50%;
+}
+.pcolor{
+	color: green;
+
+}
+.img1{
+	width: 25%;	
+	border-radius: 90%;
+}
